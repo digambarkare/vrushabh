@@ -1,7 +1,0 @@
-name: first playbook
-hosts: all
-gtasks: 
-   - name: my first playbook
-     debug: 
-      msg: "Hello"
-...
